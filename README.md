@@ -131,7 +131,7 @@ VelCode was developed to provide a local AI-powered development environment that
 * Project-wide code analysis
 * AI-assisted refactoring
 * Model switching support
-* RAG-based code understanding
+* Real-time shared Coding
 
 ## Author
 
